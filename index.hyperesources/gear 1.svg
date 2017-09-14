@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>gear 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-copy" transform="translate(-1006.000000, -681.000000)" stroke="#263645" stroke-width="2">
+            <g id="Group-14-Copy" transform="translate(1007.000000, 659.000000)">
+                <g id="gear-1" transform="translate(0.000000, 23.000000)">
+                    <polygon id="Stroke-5" stroke-linecap="round" stroke-linejoin="round" points="10.9092366 4.2148855 11.1570229 0 18.5951908 0 18.8432061 4.46290076 21.570458 6.19832061 25.7851145 4.2148855 29.7519847 10.6612214 26.0331298 13.3884733 26.281145 16.859542 30 19.3390076 26.281145 25.7851145 22.0662595 23.8016794 19.3390076 25.5370992 18.8432061 30 11.1570229 30 10.9092366 25.7851145 8.18198473 24.0496947 3.71908397 25.7851145 0 19.3390076 3.71908397 16.859542 3.71908397 13.6364885 0 10.6612214 3.71908397 4.2148855 7.93396947 6.19832061"></polygon>
+                    <circle id="Oval-4" cx="15" cy="15" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
